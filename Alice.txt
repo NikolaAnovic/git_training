@@ -1,4 +1,1 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-this is the second line.
-changing alice a little bit
-some more text
+Hi! I'm Alice. I'm a file someone added to this repository a while ago..
